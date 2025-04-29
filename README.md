@@ -4,11 +4,7 @@
 
 
 
-[![](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green)](https://gitee.com/leepm/mini-contract/blob/master/LICENSE)
-
-[![](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://www.yi-types.com)
-
-[![](https://img.shields.io/static/v1?label=version&message=1.0.5&color=green)](https://www.leepm.com)
+[![](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green)](https://gitee.com/leepm/mini-contract/blob/master/LICENSE)[![](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://www.yi-types.com)[![](https://img.shields.io/static/v1?label=version&message=1.0.5&color=green)](https://www.leepm.com)
 
 
 
