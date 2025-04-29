@@ -138,7 +138,7 @@
 
 如果你有任何对 free-sign 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 free-sign 项目团队进一步沟通： 
 
-![输入图片说明](.images/shawn_huangxing_qrcode.png)
+![](.images/shawn_huangxing_qrcode.png)
 
 
 
