@@ -1,6 +1,6 @@
 # 免费电子签(方便签)
 
-当前最新版本：v1.0.0 (发布时间：2024-06-17)
+当前最新版本：v1.0.5 (发布时间：2025-04-29)
 
 
 
@@ -8,7 +8,7 @@
 
 [![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://www.yi-types.com)
 
-[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.0.0&color=green)](https://www.leepm.com)
+[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.0.5&color=green)](https://www.leepm.com)
 
 
 
@@ -82,55 +82,55 @@
 
 > 用户在签署合同的时候需要先签署自动授权协议
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_01.png)
+![](.images/fangbianqian_01.png)
 
 ##### 2、发起签署
 
 > 
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_02.png)
+![](.images/fangbianqian_02.png)
 
 ##### 3、合同状态
 
 > 根据不同的业务情况有相应的合同状态，如：待确认、已拒绝、已逾期、还款中等合同状态
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_03.png)
+![](.images/fangbianqian_03.png)
 
 ##### 4、实名认证、人证对比
 
 > 自动授权协议和合同信息可通过邮箱发送至双方签署人处
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_04.png)
+![](.images/fangbianqian_04.png)
 
 ##### 5、合同信息（打条）
 
 > 统一的合同管理，可根据不同状态进行合同的筛选
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_05.png)
+![](.images/fangbianqian_05.png)
 
 ##### 6、信用中心
 
 > 根据姓名、身份证号可以在平台当中查看到合同签署人的信用信息和签署合同的次数
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_06.png)
+![](.images/fangbianqian_06.png)
 
 ##### 7、推广中心
 
 > 用户可通过邀请好友获得相应的佣金，当佣金达到一定数额之后可申请提现，同时这部分的推广佣金可用于抵消合同签署的打条费用
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_07.png)
+![](.images/fangbianqian_07.png)
 
 ##### 8、个人中心
 
 > 用户可查看到自己可提现的余额、可申请提现、同时也可以取消自动授权签署协议和确认自动签署协议，同时用户可随时与平台进行反馈。
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/fangbianqian_08.png)
+![](.images/fangbianqian_08.png)
 
 ##### 9、后台提现
 
 > 当用户在小程序app申请提现之后管理人员可以在后台进行提现操作。
 
-![](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/fbq/admin_01.png)
+![](.images/admin_01.png)
 
 
 
@@ -138,7 +138,7 @@
 
 如果你有任何对 free-sign 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 free-sign 项目团队进一步沟通： 
 
-![输入图片说明](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/shawn_huangxing_qrcode.png)
+![输入图片说明](.images/shawn_huangxing_qrcode.png)
 
 
 
